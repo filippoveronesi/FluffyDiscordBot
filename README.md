@@ -7,7 +7,7 @@ FluffyBot is a Discord's easy Bot for group chats.
 
 
 ## Download 
-Download the zip file from github or clone it from the command line:
+> Download the zip file from github or clone it from the command line:
 
 ```
 git clone https://github.com/filippoveronesi/FluffyDiscordsBot.git
@@ -22,7 +22,7 @@ python3 main.py
 > You can find your token in [this site](https://discord.com/developers/applications) just doing the login with your Discord's credentials.
 
 ## Commands
-Simple commands just for testing the application:
+> Simple commands just for testing the application:
 <p align="center">
   <img src="https://github.com/filippoveronesi/FluffyDiscordsBot/blob/main/img/commands.png" alt="pwduser"/>
 </p>
@@ -30,7 +30,7 @@ Simple commands just for testing the application:
 
 
 ### RandomUser & RandomPassword
-You can generate a randomic [username](https://github.com/filippoveronesi/random_usernames_generator) or [password](https://github.com/filippoveronesi/random_passwords_generator) with the same logic used in past projects linked above.
+> You can generate a randomic [username](https://github.com/filippoveronesi/random_usernames_generator) or [password](https://github.com/filippoveronesi/random_passwords_generator) with the same logic used in past projects linked above.
 <p align="center">
   <img src="https://github.com/filippoveronesi/FluffyDiscordsBot/blob/main/img/pwduser.jpg" alt="pwduser"/>
 </p>
