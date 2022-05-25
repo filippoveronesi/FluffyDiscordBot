@@ -1,2 +1,2 @@
 # FluffyBot
-Discord's easy Bot for group chats
+FluffyBot is a Discord's easy Bot for group chats. 
