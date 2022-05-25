@@ -1,5 +1,5 @@
 # FluffyBot
-FluffyBot is a Discord's easy Bot for group chats created out of curiosity with some simple commands you can use. Also, public API are used for some requests.
+FluffyBot is a Discord's easy Bot for group chats created out of curiosity with some simple commands you can use. 
 
 <p align="center">
   <img src="https://github.com/filippoveronesi/FluffyDiscordsBot/blob/main/img/online.png" alt="pwduser"/>
@@ -27,6 +27,8 @@ python3 main.py
 <p align="center">
   <img src="https://github.com/filippoveronesi/FluffyDiscordsBot/blob/main/img/commands.png" alt="pwduser"/>
 </p>
+
+> Also, public API are used for some requests: the incoming data format is **JSON**.
 
 
 
