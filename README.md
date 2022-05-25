@@ -18,8 +18,8 @@ git clone https://github.com/filippoveronesi/FluffyDiscordsBot.git
 python3 main.py
 ```
 ### Discord Token
-Remember to set yout personal Discord's environment Token Key, **_it's a secret key, don't share it, pay attention if you use it as a normal string in the application!_**.
-You can find your token in [this site](https://discord.com/developers/applications) just doing the login with your Discord's credentials.
+> Remember to set yout personal Discord's environment Token Key, **_it's a secret key, don't share it, pay attention if you use it as a normal string in the application!_**.
+> You can find your token in [this site](https://discord.com/developers/applications) just doing the login with your Discord's credentials.
 
 ## Commands
 Simple commands just for testing the application:
